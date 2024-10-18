@@ -1,6 +1,6 @@
 <h1 align="center"> The Ultimate Guide to Developing a Grubhub Clone with Advanced Features </h1> 
 
-<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“grubhubclone.png" src="https://github.com/migrateshop/grubhub-clone/blob/main/images/grubhub-clone-app.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div>
+<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“grubhubclone.png" src="https://github.com/migrateshop/grubhub-clone/blob/main/images/grubhub-clone.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div>
 
 Food delivery services have become a crucial part of our lives in the current digital era. The success of platforms such as Grubhub has prompted several entrepreneurs to consider creating their own food delivery apps. If you're an aspiring entrepreneur, this detailed blog will help you through the steps of creating a Grubhub clone with advanced features and functionality.
 
@@ -14,8 +14,6 @@ Before beginning the development process, it's important to understand the basic
 * **Delivery Management:** Manage delivery partners and optimize routes.
 * **Customer Support:** Effective customer service methods to resolve concerns and issues.
 
-<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“grubhubclone.png" src="https://github.com/migrateshop/grubhub-clone/blob/main/images/grubhub-clone.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div>
-
 ## 2. Essential Features for a Cutting-Edge Grubhub Clone App
 Consider adding these premium features to your[Grubhub Clone App](https://migrateshop.com/grubhub-clone/) to make it stand out.
 * **Geolocation-Based Recommendations:** Provide restaurant recommendations based on user location and preferences.
@@ -26,6 +24,9 @@ Consider adding these premium features to your[Grubhub Clone App](https://migra
 * **Group Ordering:** Allow users to create orders for parties and events.
 * **Table Reservations:** Provide table reservation options for eateries offering dine-in services.
 * **Delivery Scheduling:** To fit consumers' hectic schedules, offer delivery scheduling choices.
+
+<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“grubhubclone.png" src="https://github.com/migrateshop/grubhub-clone/blob/main/images/grubhub-clone-app.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div>
+
 ## 3. Technology Stack for Grubhub Clone App Development
 Choosing the correct technological stack is essential for creating a scalable and efficient [App like Grubhub](https://migrateshop.com/grubhub-clone/). Here are a few popular choices:
 * **Frontend:** React, Angular, or Vue.js
